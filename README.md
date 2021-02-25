@@ -1,2 +1,2 @@
 # ComputerVision-ImageProcessing
- MUIA: Image Processing practice for Computer VIsion
+ MUIA: Image Processing practice for Computer Vision
